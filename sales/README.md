@@ -61,3 +61,36 @@
 
 ## **Need a tool?**
 - [Hubspot Make My Persona](https://www.hubspot.com/make-my-persona)
+
+## **How does sales interact with marketing?**
+
+![Alt text](image-7.png)
+
+## **Turn your leads into prospects**
+![Alt text](image-8.png)
+
+## **First Touch**
+![Alt text](image-9.png)
+![Alt text](image-10.png)
+
+## **Outbound Leadgen using Sales Navigator**
+
+- We're going to use LinkedIn Sales Navigator  along with the Foxbound Chrome extension to generate leads
+
+## **People and companies have "buying windows"**
+
+- A buying window is a time when a company is most likely to buy your product
+- For example, if you are selling a product that helps companies with their taxes, the buying window is the end of the financial year
+- If you are selling a product that helps companies with their hiring, the buying window is when they are hiring
+  
+## **Touches**
+
+- In Enterprise sales, the 'double tap' -- the process of leaving a voicemail and sending an email -- is the most effective way to get a response
+- Usually this is done everyday once a prospect enters a sales rep's pipeline, for 8 days
+- Unless the prospect says a hard no, you then start reaching out to them once a month
+- The 8 days tap is less about getting a response, and more about making the prospect aware of your product so they have **recall** when they have a need
+- The **monthly taps** are all about actual selling
+
+## **Immediate needs**
+![Alt text](image-11.png)
+
