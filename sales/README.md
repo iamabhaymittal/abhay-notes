@@ -201,6 +201,7 @@ https://viral-loops.com/
 
 ## **How to motivate your reps**
 
+
 - Create a culture of public appreciation
 - Use one team's victory to create internal competition
 - Ask everyone to focus on weekly and daily targets instead of long quotas
